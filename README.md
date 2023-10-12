@@ -28,6 +28,6 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
 <h2>Création du client JAVA</h2>
 <h5>Génération du proxy à partir du WSDL</h5>
 
-![WebService_client_1](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/5d62fe02-7b6e-4366-933c-db6da8e91e7b)
+![WebService_client_1](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/f15a7312-2ba5-4f0f-a284-2deb530df10f)
 
 
