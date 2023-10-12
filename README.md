@@ -10,7 +10,11 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
 
 ![WebService_2](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/535ec9ed-8616-4d4f-95b5-cba8812d2507)
 
+<h2>Création du serveur JaxWS/h2><h5>Spécification de l'adresse ainsi qu'une instance web service utilisé</h5>
+  
+  - En spécifiant "0.0.0.0" comme adresse IP, le service web sera accessible via toutes les interfaces réseau de la machine. Cela signifie que le service est disponible pour les requêtes provenant de n'importe quelle adresse IP, y compris celles provenant du réseau local      et du réseau externe (si la machine dispose de plusieurs interfaces réseau). 
 
+![WebService_main](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/7a2f7b8d-0e7a-4234-872d-5f9ea7ea4384)
 
 
 
