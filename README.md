@@ -6,6 +6,12 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
 
 ![WebService_1](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/e2da1ea6-ed53-474d-874f-af0492d42373)
 
+<h2>Création de la classe Compte</h2>
+
+![WebService_2](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/535ec9ed-8616-4d4f-95b5-cba8812d2507)
+
+
+
 
 
 
