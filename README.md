@@ -25,9 +25,11 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
 
 ![WebService_soupui](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/a4da30ae-de06-4994-9548-2cf89d87c1be)
 
-<h2>Création du client JAVA</h2>
+<h1>Création du client JAVA</h1>
 <h5>Génération du proxy à partir du WSDL</h5>
 
 ![WebService_client_1](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/f15a7312-2ba5-4f0f-a284-2deb530df10f)
 
+<h5>Lors de l'utilisation d'un service web, à partir du WSDL, je génère un proxy côté client. Chaque fois que je souhaite appeler une méthode, je fais appel au stub. Le stub envoie ensuite la requête au serveur distant via le squelette (skeleton).</h5>
 
+![WebService_client_2](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/f6bc8639-e3c4-479c-aefb-d8b8701a893a)
