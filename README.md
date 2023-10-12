@@ -19,6 +19,6 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
     
   ![WebService_main](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/7a2f7b8d-0e7a-4234-872d-5f9ea7ea4384)
 
-
+<h2>WSDL Obtenu + Test des opérations via SOUPUI</h2>
 
 
