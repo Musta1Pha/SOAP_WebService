@@ -18,7 +18,7 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
   - En spécifiant "0.0.0.0" comme adresse IP, le service web sera accessible via toutes les interfaces réseau de la machine. Cela signifie que le service est disponible pour les requêtes provenant de n'importe quelle adresse IP, y compris celles provenant du réseau local      et du réseau externe (si la machine dispose de plusieurs interfaces réseau).
     
 <p align="center">
-  <img width="460" height="300" src="![WebService_main](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/7a2f7b8d-0e7a-4234-872d-5f9ea7ea4384)">
+  ![WebService_main](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/7a2f7b8d-0e7a-4234-872d-5f9ea7ea4384)
 </p>
 
 
