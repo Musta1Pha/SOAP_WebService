@@ -25,5 +25,6 @@ Dans ce TP, nous avons créé un service web appelé "BanqueService" et nous l'a
 
 ![WebService_soupui](https://github.com/Musta1Pha/SOAP_WebService/assets/91842692/a4da30ae-de06-4994-9548-2cf89d87c1be)
 
-
+<h2>Création du client JAVA</h2>
+<h5>Génération du proxy à partir du WSDL</h5>
 
